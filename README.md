@@ -42,6 +42,7 @@ MarineLang is a Programming language from Korean Marine literature meme
 * 덧셈: ```악!```
 * 뺄셈: ```따흐흑```
 * 곱셉: ```전우애```
+
 해병언어의 연산식은 후위표기식을 따릅니다. 또한, 모든 계산식의 끝에는 "실시!"를 써 연산식이 끝났음을 알립니다. 
 ```
 새끼...기합! 새끼...기합! 악! 실시! => 3+3 = 6
