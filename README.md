@@ -1,4 +1,4 @@
-# MarineLang
+# 해병언어
 MarineLang is a Programming language from Korean Marine literature meme
 해병언어는 해병문학과 엄랭(umjunsik-lang)에 영감을 받아 고안한 언어입니다. 
 2022년 04월 24일 기준 해병언어는 구현체가 없는 아이디어에 불과합니다!
@@ -8,6 +8,9 @@ MarineLang is a Programming language from Korean Marine literature meme
 악! 구 구단을외는것은뭐든지잘해 해병님!
 구 구단을외는것은뭐든지잘해 새끼.기합! 
 
+따흐흑 병언어는즐거워
+따흐흑 새끼..기합! 새끼...기합! 전우애 새끼.......기합! 전우애 실시! 해병님...
+따흐흑 구단을외는것은뭐든지잘해
 따흐흑 병언어는즐거워 구단을외는것은뭐든지잘해 전우애 실시!
 따흐흑 새끼..........기합! 해병님...
 구 구단을외는것은뭐든지잘해 구단을외는것은뭐든지잘해 새끼.기합! 악! 실시!
