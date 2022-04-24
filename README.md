@@ -146,3 +146,4 @@ MarineLang is a Programming language from Korean Marine literature meme
 
 # History
 * 202224APR 2112 해병언어 초안 작성 완료
+* 202224APR 2115 해병언어 초안 공개(레포지토리 public 전환)
